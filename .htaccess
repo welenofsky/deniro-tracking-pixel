@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^watchingyou.png /deniro.php [QSA,L]
+</IfModule>
